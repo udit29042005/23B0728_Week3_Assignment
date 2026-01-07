@@ -1,4 +1,4 @@
-# Simple Bigram Language Model
+# Coding a ChatGPT like transformer from scratch
 
 This project is a basic AI text generator trained on Shakespeare's writing. It uses PyTorch to predict the next character in a sequence, creating new text that mimics the style of the original dataset.
 
