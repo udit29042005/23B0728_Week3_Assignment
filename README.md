@@ -1,4 +1,5 @@
-##Overview
+Overview
+
 This project implements a minimal GPT-style decoder-only Transformer for character-level language modeling. The model is built step by step to demonstrate how Large Language Models operate internally, starting from simple concepts and progressing toward masked self-attention and Transformer-based text generation.
 
 The script trains a small GPT model on a text dataset and generates new text after training, helping understand attention mechanisms, context modeling, and autoregressive generation.
